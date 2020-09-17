@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recordtable
+embeddedrepository="False"
+id="6f6fbbde-134f-43b8-8179-f68d42d4f4e9"
+mode="Mobile">
+	<repeatcount>
+		1
+	</repeatcount>
+	<turbomode>
+		False
+	</turbomode>
+	<genreport>
+		True
+	</genreport>
+	<speedfactor>
+		1
+	</speedfactor>
+	<useDefaultItemLogging>
+		True
+	</useDefaultItemLogging>
+	<codegen
+	classname="Recording1"
+	namespace="GrubHub_Demo">
+	</codegen>
+	<variables>
+	</variables>
+	<recorditems>
+	</recorditems>
+	<repository
+	id="14c5afae-ceea-4087-9b9a-00012b3839c8"
+	name="GrubHub_DemoRepository"
+	relativepath="GrubHub_DemoRepository.rxrep">
+		<codegen
+		classname="GrubHub_DemoRepository"
+		namespace="GrubHub_Demo">
+		</codegen>
+		<rootfolder
+		id="a06e447c-835e-495a-88bc-3dcd69fb2682"
+		name="_rootdummy_">
+		</rootfolder>
+	</repository>
+	<usercodefile
+	lang="CSharp">
+		Recording1.UserCode.cs
+	</usercodefile>
+	<references>
+	</references>
+</recordtable>

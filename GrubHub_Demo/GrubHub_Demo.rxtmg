@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modulegroupdoc>
+  <testsuiteentryhierarchy>
+    <flatlistofchildren>
+      <modulegroups
+      name="GrubHub_Demo"
+      id="53563b88-25fc-4635-9472-0e5122acf580"/>
+    </flatlistofchildren>
+    <childhierarchy>
+      <modulegroups
+      name="GrubHub_Demo"
+      id="53563b88-25fc-4635-9472-0e5122acf580"/>
+    </childhierarchy>
+  </testsuiteentryhierarchy>
+</modulegroupdoc>
